@@ -84,17 +84,17 @@ http://localhost:3000
 ```
 
 ## 📌 How It Works
-###🔹 Assign Courses to Teachers
+##🔹 Assign Courses to Teachers
 Select a teacher
 Select a course
 Assign or unassign with one click
 
-###🔹 Enroll Students in Courses
+##🔹 Enroll Students in Courses
 Select a student
 Select a course
 Enroll or unenroll dynamically
 
-###🔹 View Overview
+##🔹 View Overview
 See all teacher-course assignments
 See all student-course enrollments in one place
 
