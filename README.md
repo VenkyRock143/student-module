@@ -105,5 +105,7 @@ See all student-course enrollments in one place
 ```
 
 ## 💾 Data Persistence
+```bash
 Assignments and enrollments are saved in localStorage
 Data remains intact even after page refresh
+```
