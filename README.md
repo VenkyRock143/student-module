@@ -63,4 +63,41 @@ src/
 git clone https://github.com/VenkyRock143/student-module.git
 ```
 
+### 2️⃣ Navigate to the project folder
+```bash
+cd student-module
+```
 
+### 3️⃣ Install dependencies
+```bash
+npm install
+```
+
+### 4️⃣ Start the development server
+```bash
+npm start
+```
+
+### The app will run on:
+```bash
+http://localhost:3000
+```
+
+## 📌 How It Works
+###🔹 Assign Courses to Teachers
+Select a teacher
+Select a course
+Assign or unassign with one click
+
+###🔹 Enroll Students in Courses
+Select a student
+Select a course
+Enroll or unenroll dynamically
+
+###🔹 View Overview
+See all teacher-course assignments
+See all student-course enrollments in one place
+
+## 💾 Data Persistence
+Assignments and enrollments are saved in localStorage
+Data remains intact even after page refresh
