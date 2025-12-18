@@ -56,3 +56,11 @@ src/
 
 ```
 
+## 🖥 How to Run the Project
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/VenkyRock143/student-module.git
+```
+
+
